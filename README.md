@@ -7,10 +7,6 @@ This repository contains a comparative analysis of the Fetch API and Axios libra
 - [Fetch API](#fetch-api)
 - [Axios](#axios)
 - [Comparison](#comparison)
-- [Examples](#examples)
-- [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Fetch API and Axios are two popular methods for making HTTP requests in JavaScript. This repository aims to demonstrate their use and provide a comparative analysis to help developers choose the right tool for their needs.
